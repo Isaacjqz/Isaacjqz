@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isaacjqz&label=Profile%20views&color=0e75b6&style=flat" alt="isaacjqz" /> </p>
 
-- 🔭 I’m currently working on [Tandem Workout](https://github.com/Isaacjqz/Isaac_Phase-5_Project)
-
 - 💬 Ask me about **JavaScript, React.js, Ruby, and Ruby on Rails**
 
 - 📫 How to reach me **isaacjqz@gmail.com**
